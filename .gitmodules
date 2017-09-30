@@ -4,3 +4,6 @@
 [submodule "submodules/cbrain-plugins-eeg"]
 	path = submodules/cbrain-plugins-eeg
 	url = https://github.com/big-data-lab-team/cbrain-plugins-eeg
+[submodule "submodules/cbrain-plugins-neuro"]
+	path = submodules/cbrain-plugins-neuro
+	url = https://github.com/aces/cbrain-plugins-neuro
