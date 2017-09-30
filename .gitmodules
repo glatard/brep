@@ -10,3 +10,6 @@
 [submodule "submodules/cbrain-plugins-hcp"]
 	path = submodules/cbrain-plugins-hcp
 	url = https://github.com/big-data-lab-team/cbrain-plugins-hcp
+[submodule "submodules/ndmg-hpc"]
+	path = submodules/ndmg-hpc
+	url = https://github.com/gkiar/ndmg-hpc
