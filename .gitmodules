@@ -7,3 +7,6 @@
 [submodule "submodules/cbrain-plugins-neuro"]
 	path = submodules/cbrain-plugins-neuro
 	url = https://github.com/aces/cbrain-plugins-neuro
+[submodule "submodules/cbrain-plugins-hcp"]
+	path = submodules/cbrain-plugins-hcp
+	url = https://github.com/big-data-lab-team/cbrain-plugins-hcp
