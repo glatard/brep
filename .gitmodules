@@ -1,0 +1,6 @@
+[submodule "submodules/cbrain-plugins-psom"]
+	path = submodules/cbrain-plugins-psom
+	url = https://github.com/SIMEXP/cbrain-plugins-psom
+[submodule "submodules/cbrain-plugins-eeg"]
+	path = submodules/cbrain-plugins-eeg
+	url = https://github.com/big-data-lab-team/cbrain-plugins-eeg
