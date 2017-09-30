@@ -13,3 +13,6 @@
 [submodule "submodules/ndmg-hpc"]
 	path = submodules/ndmg-hpc
 	url = https://github.com/gkiar/ndmg-hpc
+[submodule "submodules/SPM"]
+	path = submodules/SPM
+	url = https://github.com/glatard/SPM
