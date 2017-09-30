@@ -16,3 +16,6 @@
 [submodule "submodules/SPM"]
 	path = submodules/SPM
 	url = https://github.com/glatard/SPM
+[submodule "submodules/example"]
+	path = submodules/example
+	url = https://github.com/BIDS-Apps/example
